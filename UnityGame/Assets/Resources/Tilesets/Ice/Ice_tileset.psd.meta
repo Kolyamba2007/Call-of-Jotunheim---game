@@ -1,0 +1,3004 @@
+fileFormatVersion: 2
+guid: 5d589fb69c91c0b46bd15e5b9f5eb5c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5441223297315994465
+    second: Tileset_0
+  - first:
+      213: -3309781605116015348
+    second: Tileset_1
+  - first:
+      213: -6108889420429456849
+    second: Tileset_2
+  - first:
+      213: 5682393469540925955
+    second: Tileset_3
+  - first:
+      213: 2403724249865808194
+    second: Tileset_4
+  - first:
+      213: 8040196581939011165
+    second: Tileset_5
+  - first:
+      213: -6056380807486736462
+    second: Tileset_6
+  - first:
+      213: -8480404140891905064
+    second: Tileset_7
+  - first:
+      213: -72156938504300551
+    second: Tileset_8
+  - first:
+      213: 7769453424612927293
+    second: Tileset_9
+  - first:
+      213: -8025435653959805260
+    second: Tileset_10
+  - first:
+      213: 4938342473259674171
+    second: Tileset_11
+  - first:
+      213: -6315978382755026507
+    second: Tileset_12
+  - first:
+      213: -1010255394613501995
+    second: Tileset_13
+  - first:
+      213: -7933298228110686459
+    second: Tileset_14
+  - first:
+      213: 2167505942708378944
+    second: Tileset_15
+  - first:
+      213: -9164683769879867358
+    second: Tileset_16
+  - first:
+      213: -4087309676702264633
+    second: Tileset_17
+  - first:
+      213: 3931779560235752176
+    second: Tileset_18
+  - first:
+      213: -1865757787562490331
+    second: Tileset_19
+  - first:
+      213: -7869403223043187030
+    second: Tileset_20
+  - first:
+      213: 6408231970667830406
+    second: Tileset_21
+  - first:
+      213: 511961965738296472
+    second: Tileset_22
+  - first:
+      213: -8442174482077232629
+    second: Tileset_23
+  - first:
+      213: -6936079216851816805
+    second: Tileset_24
+  - first:
+      213: 7810936717752353743
+    second: Tileset_25
+  - first:
+      213: 3419707775326841495
+    second: Tileset_26
+  - first:
+      213: -7245433517681746672
+    second: Tileset_27
+  - first:
+      213: -251839660766796828
+    second: Tileset_28
+  - first:
+      213: 6498308080520882553
+    second: Tileset_29
+  - first:
+      213: -4153462369580933767
+    second: Tileset_30
+  - first:
+      213: 5252699531460982423
+    second: Tileset_31
+  - first:
+      213: -1995710985900991969
+    second: Tileset_32
+  - first:
+      213: -6790877635778163277
+    second: Tileset_33
+  - first:
+      213: -8485852519046724033
+    second: Tileset_34
+  - first:
+      213: 4060682636331337571
+    second: Tileset_35
+  - first:
+      213: -5244482664123065748
+    second: Tileset_36
+  - first:
+      213: 3355423005436571770
+    second: Tileset_37
+  - first:
+      213: 7000084741650100059
+    second: Tileset_38
+  - first:
+      213: -3708064732922258302
+    second: Tileset_39
+  - first:
+      213: -6845586650278806490
+    second: Tileset_40
+  - first:
+      213: 9050836684853675456
+    second: Tileset_41
+  - first:
+      213: 5286604566695674614
+    second: Tileset_42
+  - first:
+      213: -6175098468129261796
+    second: Tileset_43
+  - first:
+      213: -1764967261314419617
+    second: Tileset_44
+  - first:
+      213: 4097243551642442831
+    second: Tileset_45
+  - first:
+      213: -4553793528244279247
+    second: Tileset_46
+  - first:
+      213: -1788890817464930820
+    second: Tileset_47
+  - first:
+      213: 8964647865480036123
+    second: Tileset_48
+  - first:
+      213: 7504058923700220638
+    second: Tileset_49
+  - first:
+      213: 6576249790921849821
+    second: Tileset_50
+  - first:
+      213: 6842110584453081141
+    second: Tileset_51
+  - first:
+      213: 1883419416733562292
+    second: Tileset_52
+  - first:
+      213: -1745280011730706991
+    second: Tileset_53
+  - first:
+      213: -784972302168420868
+    second: Tileset_54
+  - first:
+      213: 5734892399885210946
+    second: Tileset_55
+  - first:
+      213: -3099550750896681144
+    second: Tileset_56
+  - first:
+      213: 4617657777311919784
+    second: Tileset_57
+  - first:
+      213: -2458843072021148632
+    second: Tileset_58
+  - first:
+      213: 4413150509923625746
+    second: Tileset_59
+  - first:
+      213: 6891894450384577634
+    second: Tileset_60
+  - first:
+      213: -7411026656216122260
+    second: Tileset_61
+  - first:
+      213: -7640177128574331439
+    second: Tileset_62
+  - first:
+      213: 657641356394417032
+    second: Tileset_63
+  - first:
+      213: -8055969692162434967
+    second: Tileset_0
+  - first:
+      213: -392881981449553408
+    second: Tileset_1
+  - first:
+      213: 4146530996035396017
+    second: Tileset_2
+  - first:
+      213: 4271163208158920412
+    second: Tileset_3
+  - first:
+      213: -4616712418099273243
+    second: Tileset_4
+  - first:
+      213: 646803073681677612
+    second: Tileset_5
+  - first:
+      213: 2110045011347002660
+    second: Tileset_6
+  - first:
+      213: 5147205238434729488
+    second: Tileset_7
+  - first:
+      213: 5953623731125785475
+    second: Tileset_8
+  - first:
+      213: 4248487090777858813
+    second: Tileset_9
+  - first:
+      213: 1064213733375796992
+    second: Tileset_10
+  - first:
+      213: 3136397862549457744
+    second: Tileset_11
+  - first:
+      213: -1900448697696865002
+    second: Tileset_12
+  - first:
+      213: 8836617657623632394
+    second: Tileset_13
+  - first:
+      213: 8890985325191945501
+    second: Tileset_14
+  - first:
+      213: 573926110773694857
+    second: Tileset_15
+  - first:
+      213: 1033149997281891016
+    second: Ice_tileset_0
+  - first:
+      213: 2476712219431365375
+    second: Ice_tileset_1
+  - first:
+      213: -8049122381409039948
+    second: Ice_tileset_2
+  - first:
+      213: -24083971505880211
+    second: Ice_tileset_0
+  - first:
+      213: 126743637735361283
+    second: Ice_tileset_1
+  - first:
+      213: 6561213817627664934
+    second: Ice_tileset_2
+  - first:
+      213: -328129697026268873
+    second: Ice_tileset_3
+  - first:
+      213: -4627303680362376397
+    second: Ice_tileset_4
+  - first:
+      213: 5979905097189246863
+    second: Ice_tileset_5
+  - first:
+      213: -3140331236690123261
+    second: Ice_tileset_6
+  - first:
+      213: 6928980314908577926
+    second: Ice_tileset_7
+  - first:
+      213: -7091807227806052441
+    second: Ice_tileset_8
+  - first:
+      213: -6020737144946464797
+    second: Ice_tileset_9
+  - first:
+      213: -6350563014054285159
+    second: Ice_tileset_10
+  - first:
+      213: -1547576090192691992
+    second: Ice_tileset_11
+  - first:
+      213: 2194261475189392387
+    second: Ice_tileset_12
+  - first:
+      213: -7687302570217715537
+    second: Ice_tileset_13
+  - first:
+      213: -5635178087712699818
+    second: Ice_tileset_14
+  - first:
+      213: -7402540953578758263
+    second: Ice_tileset_15
+  - first:
+      213: -8349606190268928014
+    second: Ice_tileset_16
+  - first:
+      213: 607356487294987315
+    second: Ice_tileset_17
+  - first:
+      213: -6620029024378525587
+    second: Ice_tileset_18
+  - first:
+      213: 2451555907000863959
+    second: Ice_tileset_19
+  - first:
+      213: 7375186140676031691
+    second: Ice_tileset_20
+  - first:
+      213: 1684902514722557372
+    second: Ice_tileset_3
+  - first:
+      213: 5108076605412709740
+    second: Ice_tileset_4
+  - first:
+      213: -5020500966459606828
+    second: Ice_tileset_5
+  - first:
+      213: -2561263982657455654
+    second: Ice_tileset_6
+  - first:
+      213: -7145332178465011762
+    second: Ice_tileset_7
+  - first:
+      213: 3089469207692219560
+    second: Ice_tileset_8
+  - first:
+      213: -7884225997434568517
+    second: Ice_tileset_9
+  - first:
+      213: -8633041524118923523
+    second: Ice_tileset_10
+  - first:
+      213: 9216811231766873261
+    second: Ice_tileset_11
+  - first:
+      213: 6721591130622887603
+    second: Ice_tileset_12
+  - first:
+      213: -2077207315363293052
+    second: Ice_tileset_13
+  - first:
+      213: -7888275962562335728
+    second: Ice_tileset_14
+  - first:
+      213: 8346391744900957054
+    second: Ice_tileset_15
+  - first:
+      213: -4410833860157341568
+    second: Ice_tileset_16
+  - first:
+      213: 6328697443698356332
+    second: Ice_tileset_17
+  - first:
+      213: -477885456318656375
+    second: Ice_tileset_18
+  - first:
+      213: 4556414430217612302
+    second: Ice_tileset_21
+  - first:
+      213: 3136286030494170202
+    second: Ice_tileset_22
+  - first:
+      213: 1234794522243788162
+    second: Ice_tileset_23
+  - first:
+      213: -8679633076786287367
+    second: Ice_tileset_24
+  - first:
+      213: 8971680955557696337
+    second: Ice_tileset_25
+  - first:
+      213: 7519292474481921962
+    second: Ice_tileset_26
+  - first:
+      213: 3000732311100420084
+    second: Ice_tileset_27
+  - first:
+      213: 4269249636803667666
+    second: Ice_tileset_28
+  - first:
+      213: -5305174377529273030
+    second: Ice_tileset_29
+  - first:
+      213: 791191970267812232
+    second: Ice_tileset_30
+  - first:
+      213: 2856482377408039622
+    second: Ice_tileset_31
+  - first:
+      213: 8201044624839335334
+    second: Ice_tileset_32
+  - first:
+      213: -5771927908737405344
+    second: Ice_tileset_33
+  - first:
+      213: 3115951969391561425
+    second: Ice_tileset_34
+  - first:
+      213: 8563463846351899453
+    second: Ice_tileset_35
+  - first:
+      213: -1557763904421695399
+    second: Ice_tileset_19
+  - first:
+      213: -3459275577865570534
+    second: Ice_tileset_20
+  - first:
+      213: 8202797578060937873
+    second: Ice_tileset_21
+  - first:
+      213: -5098424676908294043
+    second: Ice_tileset_22
+  - first:
+      213: 2116908282044586368
+    second: Ice_tileset_23
+  - first:
+      213: -493984295412041833
+    second: Ice_tileset_24
+  - first:
+      213: -3281096987720049433
+    second: Ice_tileset_25
+  - first:
+      213: -6842808199460154726
+    second: Ice_tileset_26
+  - first:
+      213: -6890521859410976024
+    second: Ice_tileset_27
+  - first:
+      213: -8787874299722711203
+    second: Ice_tileset_28
+  - first:
+      213: 1790156060894305789
+    second: Ice_tileset_29
+  - first:
+      213: 1077963085329816934
+    second: Ice_tileset_30
+  - first:
+      213: 3886047459479606093
+    second: Ice_tileset_31
+  - first:
+      213: 6111949689193772796
+    second: Ice_tileset_32
+  - first:
+      213: -2419570182515752638
+    second: Ice_tileset_33
+  - first:
+      213: 7933054263341336125
+    second: Ice_tileset_34
+  - first:
+      213: 1695741154709667894
+    second: Ice_tileset_35
+  - first:
+      213: 3236035953184295850
+    second: Ice_tileset_36
+  - first:
+      213: -1955366927388056992
+    second: Ice_tileset_37
+  - first:
+      213: 9157876927406950735
+    second: Ice_tileset_38
+  - first:
+      213: -477460180614846333
+    second: Ice_tileset_39
+  - first:
+      213: -1970978704232204505
+    second: Ice_tileset_40
+  - first:
+      213: 62541989466510100
+    second: Ice_tileset_41
+  - first:
+      213: 8749165622813134808
+    second: Ice_tileset_42
+  - first:
+      213: -234015045896961505
+    second: Ice_tileset_43
+  - first:
+      213: -5320930137340429487
+    second: Ice_tileset_44
+  - first:
+      213: -8421370730898556992
+    second: Ice_tileset_45
+  - first:
+      213: -6827465917903616443
+    second: Ice_tileset_46
+  - first:
+      213: 2334271632482153567
+    second: Ice_tileset_47
+  - first:
+      213: -6061716999233300510
+    second: Ice_tileset_36
+  - first:
+      213: -4058423172809968532
+    second: Ice_tileset_37
+  - first:
+      213: -2308862676848074710
+    second: Ice_tileset_38
+  - first:
+      213: 7836741471706188308
+    second: Ice_tileset_39
+  - first:
+      213: -8702833693305170491
+    second: Ice_tileset_40
+  - first:
+      213: 282608828480089254
+    second: Ice_tileset_41
+  - first:
+      213: -1296285256450041968
+    second: Ice_tileset_42
+  - first:
+      213: 4439144433636571493
+    second: Ice_tileset_43
+  - first:
+      213: 3156930885025314459
+    second: Ice_tileset_44
+  - first:
+      213: 4990491729530547364
+    second: Ice_tileset_45
+  - first:
+      213: -4553811959296916147
+    second: Ice_tileset_48
+  - first:
+      213: -7852082746097244654
+    second: Ice_tileset_49
+  - first:
+      213: -2097926539146096955
+    second: Ice_tileset_50
+  - first:
+      213: -929020499430993113
+    second: Ice_tileset_51
+  - first:
+      213: 3853098316145389099
+    second: Ice_tileset_46
+  - first:
+      213: -4605422034783430198
+    second: Ice_tileset_47
+  - first:
+      213: -8074855827576456719
+    second: Ice_tileset_48
+  - first:
+      213: -2915569200369966775
+    second: Ice_tileset_49
+  - first:
+      213: 6080034700317125348
+    second: Ice_tileset_52
+  - first:
+      213: 6614516505048083283
+    second: Ice_tileset_53
+  - first:
+      213: -2878427635112599913
+    second: Ice_tileset_54
+  - first:
+      213: -5626871440429018145
+    second: Ice_tileset_55
+  - first:
+      213: 4891465110058477277
+    second: Ice_tileset_56
+  - first:
+      213: 346321378755459801
+    second: Ice_tileset_57
+  - first:
+      213: -7947869005326688440
+    second: Ice_tileset_58
+  - first:
+      213: -72473021293743997
+    second: Ice_tileset_59
+  - first:
+      213: 5903773551764803089
+    second: Ice_tileset_60
+  - first:
+      213: -501221628108358423
+    second: Ice_tileset_61
+  - first:
+      213: -5729431545458048743
+    second: Ice_tileset_62
+  - first:
+      213: 138162045532214605
+    second: Ice_tileset_63
+  - first:
+      213: 662720529294777650
+    second: Ice_tileset_64
+  - first:
+      213: -1546274937626874231
+    second: Ice_tileset_65
+  - first:
+      213: -6029892051643290720
+    second: Ice_tileset_66
+  - first:
+      213: 423653639365054919
+    second: Ice_tileset_67
+  - first:
+      213: -6943016116352174811
+    second: Ice_tileset_68
+  - first:
+      213: 493919881602312129
+    second: Ice_tileset_69
+  - first:
+      213: -7181534890133112463
+    second: Ice_tileset_70
+  - first:
+      213: 326370811745224509
+    second: Ice_tileset_71
+  - first:
+      213: -4232431263863991070
+    second: Ice_tileset_72
+  - first:
+      213: 6514390310280264129
+    second: Ice_tileset_73
+  - first:
+      213: 3762963124400826671
+    second: Ice_tileset_74
+  - first:
+      213: -8221782782524495910
+    second: Ice_tileset_75
+  - first:
+      213: 1115404278937066982
+    second: Ice_tileset_76
+  - first:
+      213: -9038785332905787907
+    second: Ice_tileset_77
+  - first:
+      213: -9112869298578996608
+    second: Ice_tileset_78
+  - first:
+      213: -4392452504442844932
+    second: Ice_tileset_79
+  - first:
+      213: -29144823525320756
+    second: Ice_tileset_80
+  - first:
+      213: 4199258519408444443
+    second: Ice_tileset_81
+  - first:
+      213: 2568003929893968342
+    second: Ice_tileset_82
+  - first:
+      213: 7286236021666820061
+    second: Ice_tileset_83
+  - first:
+      213: 7767300969777038359
+    second: Ice_tileset_84
+  - first:
+      213: 7378563618694146665
+    second: Ice_tileset_85
+  - first:
+      213: 154356430517603422
+    second: Ice_tileset_52
+  - first:
+      213: 1890003115269046443
+    second: Ice_tileset_53
+  - first:
+      213: -8694333323866112525
+    second: Ice_tileset_54
+  - first:
+      213: 7208497545385719760
+    second: Ice_tileset_55
+  - first:
+      213: -6209650895638096305
+    second: Ice_tileset_58
+  - first:
+      213: 7775641551197078184
+    second: Ice_tileset_59
+  - first:
+      213: -4702493201345174567
+    second: Ice_tileset_60
+  - first:
+      213: -2445121214091096331
+    second: Ice_tileset_64
+  - first:
+      213: -4499418862175733180
+    second: Ice_tileset_65
+  - first:
+      213: 5317549056535752854
+    second: Ice_tileset_71
+  - first:
+      213: -4364230249294982678
+    second: Ice_tileset_76
+  - first:
+      213: -219118888153286827
+    second: Ice_tileset_77
+  - first:
+      213: 6933716679804809499
+    second: Ice_tileset_78
+  - first:
+      213: 6180517258468302076
+    second: Ice_tileset_79
+  - first:
+      213: 7179241804437594891
+    second: Ice_tileset_80
+  - first:
+      213: 1698553176303287449
+    second: Ice_tileset_81
+  - first:
+      213: 3218577323159890775
+    second: Ice_tileset_82
+  - first:
+      213: -1445812441359350476
+    second: Ice_tileset_86
+  - first:
+      213: 3956337575212448905
+    second: Ice_tileset_87
+  - first:
+      213: 2722939068665033319
+    second: Ice_tileset_88
+  - first:
+      213: 6737732435449953750
+    second: Ice_tileset_89
+  - first:
+      213: -7908590543360398876
+    second: Ice_tileset_90
+  - first:
+      213: 2391943106820307132
+    second: Ice_tileset_91
+  - first:
+      213: -2358701555862211682
+    second: Ice_tileset_92
+  - first:
+      213: -5836553216618809722
+    second: Ice_tileset_93
+  - first:
+      213: 5753418575988052641
+    second: Ice_tileset_94
+  - first:
+      213: -1267299313646308946
+    second: Ice_tileset_95
+  - first:
+      213: 2519593248826259449
+    second: Ice_tileset_96
+  - first:
+      213: 6326109575468197453
+    second: Ice_tileset_97
+  - first:
+      213: 4279391823857933626
+    second: Ice_tileset_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.47679144, y: 0.53191185}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 70, y: 93, z: 92, w: 69}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622e41f443d1e0b50800000000000000
+      internalID: 6561213817627664934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd433ff8e9f16710800000000000000
+      internalID: 1684902514722557372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c659b1fdb9883e640800000000000000
+      internalID: 5108076605412709740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d87ba388f8935ab0800000000000000
+      internalID: -5020500966459606828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad933b95aff847cd0800000000000000
+      internalID: -2561263982657455654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7cc64cd3ea6dc90800000000000000
+      internalID: -7145332178465011762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4900d20efffda20800000000000000
+      internalID: 3089469207692219560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0430e4a3a959290800000000000000
+      internalID: -7884225997434568517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6d1bf3976413880800000000000000
+      internalID: -8633041524118923523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48b478bf0b8ef70800000000000000
+      internalID: 9216811231766873261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b681325583e74d50800000000000000
+      internalID: 6721591130622887603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4889de2c3f64c23e0800000000000000
+      internalID: -2077207315363293052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 462
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -12.5}
+        - {x: 16, y: 12.5}
+        - {x: -16, y: 12.5}
+        - {x: -16, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c28315ec6378290800000000000000
+      internalID: -7888275962562335728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e730317221754d370800000000000000
+      internalID: 8346391744900957054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0808e0a49f199c2c0800000000000000
+      internalID: -4410833860157341568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60309e4bcc04d750800000000000000
+      internalID: 6328697443698356332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 462
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 12}
+        - {x: -16, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9801dcc95b53e59f0800000000000000
+      internalID: -477885456318656375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 463
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: 11.5}
+        - {x: -13, y: -10.5}
+        - {x: 15, y: -10.5}
+        - {x: 15, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950f4097bf5b16ae0800000000000000
+      internalID: -1557763904421695399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177321a03f2effc0800000000000000
+      internalID: -3459275577865570534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ab1ccdfe036d170800000000000000
+      internalID: 8202797578060937873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560abcad4c1ce39b0800000000000000
+      internalID: -5098424676908294043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 437
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089995dddd4c06d10800000000000000
+      internalID: 2116908282044586368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797f75b86e30529f0800000000000000
+      internalID: -493984295412041833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 401
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec97557ca33772d0800000000000000
+      internalID: -3281096987720049433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 401
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a921c0582367901a0800000000000000
+      internalID: -6842808199460154726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 402
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2aebc50e2ff50a0800000000000000
+      internalID: -6890521859410976024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 402
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3e3272e23b0680800000000000000
+      internalID: -8787874299722711203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 402
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd1e16e379e7d810800000000000000
+      internalID: 1790156060894305789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 400
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d511ef6b1b5fe00800000000000000
+      internalID: 1077963085329816934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43579243930ee530800000000000000
+      internalID: 3886047459479606093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6347d1cd102d450800000000000000
+      internalID: 6111949689193772796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241850a0db5fb6ed0800000000000000
+      internalID: -2419570182515752638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 7}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36cb5642ded71e60800000000000000
+      internalID: 7933054263341336125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 7}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6300b75889b788710800000000000000
+      internalID: 1695741154709667894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2deabd27c765e00800000000000000
+      internalID: 1033149997281891016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 7}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e790cb618470eba0800000000000000
+      internalID: -6061716999233300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 7}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64b27470a59da7c0800000000000000
+      internalID: -4058423172809968532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 7}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a202057d0a545ffd0800000000000000
+      internalID: -2308862676848074710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 7}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a8e9109d2b1cc60800000000000000
+      internalID: 7836741471706188308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 316
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c59e339dd2593780800000000000000
+      internalID: -8702833693305170491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 316
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ace1ff6b370ce300800000000000000
+      internalID: 282608828480089254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_42
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 316
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df06d467c74b6970800000000000000
+      internalID: 8749165622813134808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5697f81c7520b9d30800000000000000
+      internalID: 4439144433636571493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 283
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b37294b324826b0800000000000000
+      internalID: -5320930137340429487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac613989c9c14540800000000000000
+      internalID: 4990491729530547364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_46
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e60820184f87530800000000000000
+      internalID: 3853098316145389099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac91af75f014610c0800000000000000
+      internalID: -4605422034783430198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9ffc0486950ff80800000000000000
+      internalID: -8074855827576456719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_49
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941e0e57241d987d0800000000000000
+      internalID: -2915569200369966775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_50
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 250
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce055d8deaa2e2e0800000000000000
+      internalID: -2097926539146096955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7231c5627c47b13f0800000000000000
+      internalID: -929020499430993113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 197
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6a04cf999f1e340800000000000000
+      internalID: 4891465110058477277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 210
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dab7d685716ec400800000000000000
+      internalID: 346321378755459801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 148
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45936df5a9dae100800000000000000
+      internalID: 138162045532214605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 197
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1d72a8dbe11e500800000000000000
+      internalID: 423653639365054919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_68
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 197
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525340bb0a375af90800000000000000
+      internalID: -6943016116352174811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 148
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7a862f381cad600800000000000000
+      internalID: 493919881602312129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 148
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ba8b1110165c90800000000000000
+      internalID: -7181534890133112463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_72
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 177
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4112d90326345c0800000000000000
+      internalID: -4232431263863991070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_73
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 177
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c97084f873c76a50800000000000000
+      internalID: 6514390310280264129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_74
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 144
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292ecc460bb83430800000000000000
+      internalID: 3762963124400826671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_75
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 144
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad76433ce1c56ed80800000000000000
+      internalID: -8221782782524495910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 210
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa631234ac0f5220800000000000000
+      internalID: 2476712219431365375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 294
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.66, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c8cc11b52642200800000000000000
+      internalID: 154356430517603422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_53
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 294
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.33, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba04ef5d1d3aa3a10800000000000000
+      internalID: 1890003115269046443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_54
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 245
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.66, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd7e1018e5875780800000000000000
+      internalID: -8694333323866112525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_55
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 245
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.33, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7bdf4435ab90460800000000000000
+      internalID: 7208497545385719760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 294
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.66, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f461e4a1963e2d9a0800000000000000
+      internalID: -6209650895638096305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_59
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 245
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.66, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a28edf2bc0a8eb60800000000000000
+      internalID: 7775641551197078184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_60
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 294
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.33, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3a12729536dbeb0800000000000000
+      internalID: -4702493201345174567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_61
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 245
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.33, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecbbd6b59d4b09f0800000000000000
+      internalID: -501221628108358423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_62
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 309
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9114e008d58fc70b0800000000000000
+      internalID: -5729431545458048743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 276
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe0459e53f211ed0800000000000000
+      internalID: -2445121214091096331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_65
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 243
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ab250426ade81c0800000000000000
+      internalID: -4499418862175733180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_71
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 243
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690f68e71babbc940800000000000000
+      internalID: 5317549056535752854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_76
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 276
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae112c006b32f63c0800000000000000
+      internalID: -4364230249294982678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_77
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 309
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5577b0c388885fcf0800000000000000
+      internalID: -219118888153286827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 349
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1177f87592893060800000000000000
+      internalID: 6933716679804809499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_79
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 349
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc9c2763bb95c550800000000000000
+      internalID: 6180517258468302076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_80
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 349
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b032326426ac1a360800000000000000
+      internalID: 7179241804437594891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_81
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 349
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c3ba15d19729710800000000000000
+      internalID: 1698553176303287449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_82
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 349
+        width: 32
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ba21dc50faaac20800000000000000
+      internalID: 3218577323159890775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_86
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 349
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358fecae317febe0800000000000000
+      internalID: -1445812441359350476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 199
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c7116201cb7e630800000000000000
+      internalID: 3956337575212448905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_88
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 199
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762ffccf7a2d9c520800000000000000
+      internalID: 2722939068665033319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_89
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 147
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd3f96b3fb318d50800000000000000
+      internalID: 6737732435449953750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 131
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e96df46dca0f3290800000000000000
+      internalID: -7908590543360398876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_91
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8f7f42593e13120800000000000000
+      internalID: 2391943106820307132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_92
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93fbaf8e65344fd0800000000000000
+      internalID: -2358701555862211682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_93
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686b5cad5c5600fa0800000000000000
+      internalID: -5836553216618809722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_94
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2d6e146bf38df40800000000000000
+      internalID: 5753418575988052641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_95
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1f30a1df5a96ee0800000000000000
+      internalID: -1267299313646308946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_96
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7f2ced5b467f220800000000000000
+      internalID: 2519593248826259449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_97
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46aaf7442bdac750800000000000000
+      internalID: 6326109575468197453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_98
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 168
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d53cbc034736b30800000000000000
+      internalID: 4279391823857933626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 338
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aba9d37025815ca0800000000000000
+      internalID: -6029892051643290720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_tileset_83
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 337
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf2b1dbe09ed1560800000000000000
+      internalID: 7286236021666820061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -128, y: 128}
+      - {x: -128, y: -128}
+      - {x: 128, y: -128}
+      - {x: 128, y: 128}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
